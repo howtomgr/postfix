@@ -1,0 +1,65 @@
+{
+  "category": "mail-servers",
+  "created_date": "2025-09-15T22:48:58.723215",
+  "default_ports": [
+    25,
+    80,
+    443
+  ],
+  "dependencies": [
+    "cyrus-sasl",
+    "openssl"
+  ],
+  "description": "postfix is a free and open-source mail transfer agent. Postfix provides fast, secure mail transfer agent as alternative to Sendmail",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/mail-servers/postfix",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/mail-servers/postfix",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.723236",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "postfix",
+  "repository_url": "https://github.com/howtomgr/postfix",
+  "spec_version": "2.0",
+  "subcategory": "mail-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "mail-servers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection",
+    "communication"
+  ],
+  "title": "postfix Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/mail-servers/postfix"
+}
